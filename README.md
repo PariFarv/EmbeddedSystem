@@ -26,8 +26,8 @@ This repository contains the final project for the Embedded Systems course. The 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Group6_FinalProject.X.git
-    cd Group6_FinalProject.X
+    git clone https://github.com/yourusername/FinalProject.X.git
+    cd FinalProject.X
     ```
 
 2. Open the project in MPLAB X IDE.
