@@ -26,8 +26,7 @@ This repository contains the final project for the Embedded Systems course. The 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/FinalProject.X.git
-    cd FinalProject.X
+    git clone https://github.com/PariFarv/EmbeddedSystem/tree/main/FinalProject.X
     ```
 
 2. Open the project in MPLAB X IDE.
@@ -38,8 +37,8 @@ This repository contains the final project for the Embedded Systems course. The 
 
 ### Features
 
-- **ADC (Analog to Digital Converter)**: Converts analog signals to digital values.
-- **PWM (Pulse Width Modulation)**: Used for controlling peripherals like motors.
+- **ADC (Analog to Digital Converter)**: Converts analog signals to digital values used for reading IR sensor and battery charge.
+- **PWM (Pulse Width Modulation)**: Used for controlling motors.
 - **Timer**: Used for managing time delays and task scheduling.
 - **UART**: Serial communication functionality for debugging and interaction.
 
